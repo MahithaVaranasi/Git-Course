@@ -1,1 +1,2 @@
 add and remove users and change rules
+manage the database
