@@ -1,4 +1,4 @@
-add and remove users and change rules
+add and remove users 
 manage the database
 closing the oracle database connection
 change 1
